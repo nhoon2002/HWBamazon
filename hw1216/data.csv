@@ -1,0 +1,11 @@
+item_id,product_name,department_name,price,stock_quantity
+1,"iPhone 7 (32GB)",Electronics,399.99,62
+2,"Starbucks Frappaccino (Caramel)","Food & Beverage",1.99,105
+3,"Wilson Rubber Basketball","Sports Equipment",19.99,39
+4,"Kirkland Apple Cider","Food & Beverage",2.99,82
+5,"Prismacolor Colored Pencils (32-count)","Arts & Crafts",39.99,8
+6,"Flaming Hot Cheetos",Snacks,0.99,955
+7,"Shower Curtain Liner (Large)","Home & Kitchen",9.99,2
+8,"Downey Laundry Detergent (1 Gallon)",Household,12.99,77
+9,"Netgear Wireless AC Router",Electronics,129.99,9
+10,"Sony Playstation 5 (1TB)","Video Games",999.99,10
